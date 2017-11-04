@@ -1,5 +1,6 @@
 package ohtu.ohtuvarasto;
 
+// Teinpäs jonkun muutoksn repositoriooni. Ei tää nyt kauheen järkevä ollut.
 public class Main {
 
     public static void main(String[] args) {
