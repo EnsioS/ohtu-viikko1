@@ -38,6 +38,8 @@ jar {
 
 apply plugin: "jacoco" 
 
+apply plugin: 'checkstyle'
+
 jacocoTestReport {
     reports {
         xml.enabled true
